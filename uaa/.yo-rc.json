@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.atithih.uaa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.atithih.uaa",
+    "packageFolder": "com/atithih/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjlmNzQ2YTRiYTBkZGUzODQ4OWQ2NTI4NjM3YWRhMTQ3OTVjYjhmM2ZkYmM0MGJiY2Y5NThiODBkNzc3NGQ4YzU4MGY5OTM1NDM1MDMxMGQ0MjE4YTI0OWJmNmNlN2Y4M2JmNzRlMTkxYzMzZmY5NGM5OThmYjczMjMxMjNmZDE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "skipClient": true
+  }
+}

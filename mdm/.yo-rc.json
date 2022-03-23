@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.atithih.mdm",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "microservice",
+    "baseName": "mdm",
+    "packageName": "com.atithih.mdm",
+    "packageFolder": "com/atithih/mdm",
+    "serverPort": "8083",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmRkMTAyMjgzMjk4NDlkZjExZmE3MzI4OWEwN2ZkMzkyMTQ0MGE1MDdjOTFjMjJkODJkNGU0Mjk1YjkxYzljYzY5ZTI5NjA0OTM0NzI1MTY4OThiMmQ4MjJiODcxOTEyM2ZhOWQ2ZTI3YTRiZGU1ZmNlZjc4ZDY1MTUxOWJhNjQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

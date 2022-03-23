@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.atithih.cms",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "microservice",
+    "baseName": "cms",
+    "packageName": "com.atithih.cms",
+    "packageFolder": "com/atithih/cms",
+    "serverPort": "8082",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2NiNzg1OGM1Yzg5NDA1NmZhMGVlZDAxMjZlZjA1Nzk1ZDczNGYxZWE3YmMzMjAyYzJhZTUzMDZmOGEyNjQ4YWMyYzU1NDE2MWZhOWNhY2EzOTk2YWYzNzU3ZTIzZDY3NTAzNmNmYzMyOWU1ZmI2ODFjNGZkYjM5MTk0MDIxNDE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
